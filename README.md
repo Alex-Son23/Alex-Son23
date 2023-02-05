@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/Alex-Son23/Alex-Son23/blob/main/anime.gif)
 <!--
 **Alex-Son23/Alex-Son23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
