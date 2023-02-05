@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Aleksander(Junior Backend developer)
 ![](https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif)
+
+## My stack:
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-blue?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <!--
 **Alex-Son23/Alex-Son23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +12,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...![изображение](https://user-images.githubusercontent.com/65711783/216840039-c3d9988f-dd12-4c25-9f5b-df1cab2b94fd.png)
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
